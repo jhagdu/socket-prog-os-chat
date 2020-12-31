@@ -22,5 +22,5 @@ By default recvfrom() function doesn't support parallelism. So to achieve parall
 - You can see that it can recieve message from multiple OS at a time i.e. Parallelism
 
 # Demo Video Links
-OSChat -  
-MultiRecieve -  
+OSChat - https://www.linkedin.com/posts/amanjhagrolia143_vimaldaga-righteducation-educationredefine-activity-6750272502297096192-RYTf  
+  
